@@ -1,0 +1,2 @@
+/Users/bryceligaya/Desktop/Dog_Document/Dog_Document/obj/x86/Debug/Dog_Document.csprojResolveAssemblyReference.cache
+/Users/bryceligaya/Desktop/Dog_Document/Dog_Document/obj/x86/Debug/Dog_Document.csproj.CoreCompileInputs.cache
